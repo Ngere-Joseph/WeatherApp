@@ -1,5 +1,5 @@
 # OVERVIEW
-A REST API which supports Creating, Reading, Updating and Deleting weather with the implementation of JWT authentication and Microsoft Identity framework to to authenticate and store user and role information respectively.  
+A REST API which supports Creating, Reading, Updating and Deleting weather info with the implementation of JWT authentication and Microsoft Identity framework to to authenticate and store user and role information respectively.  
 
 
 ## TECHNOLOGY USED
